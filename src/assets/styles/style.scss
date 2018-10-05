@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color:rgb(120,120,120);
+    margin-top: 40px;
+   
+    background: url('../img/bg.png');
+    background-repeat: repeat;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 300;
+}
+
+p {
+    color:rgb(120,120,120);
+}
+
+.container {
+    background: rgb(255,255,255);
+  /*border:1px solid rgba(0,0,0,0.05);*/
+  border-top:3px solid #007bff;
+
+  border-bottom:3px solid #007bff;
+}
+
+.header {
+    min-height: 100px;
+}
+
+.portfolio-row {
+    padding: 4px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.row-social {
+    font-size:28px;
+}
+
+.row-social a {
+    color: rgb(130,130,130);
+    transition: 0.5s;
+
+}
+
+.project-card {
+    margin-bottom: 10px;
+}
+
+.project-col {
+    height: 200px;
+}
+
+.row-social a:hover {
+    color:rgb(90,90,90);
+    transition: 0.5s;
+}
+
+
+.technology {
+ 
+}
+
+
+nav a {
+    transition: 1.0s;
+}
+
+nav .router-link-exact-active {
+    color: rgba(0,0,0,0.5);
+    transform: scale(1.0) translateY(-5px);
+    border-top: 2px solid  #007bff;
+    border-bottom: 2px solid #007bff;
+    border-radius: 4px;
+    transition:0.5s;
+    padding: 20px;
+    background:rgba(0,0,0,0.05);
+}
