@@ -74,7 +74,7 @@ export const games = [
 export const projects = [
     project(
       "Ladasho",
-      "",
+      "Tiny Resource Manager for Laravel",
       "http://damianbalandowski.com/img/ladasho1.png",
       "https://github.com/damianbal/ladasho-app",
       "",
@@ -82,7 +82,7 @@ export const projects = [
     ),
   project(
     "Newsfly",
-    "",
+    "Send email news to subscribers",
     "http://damianbalandowski.com/img/newsfly.png",
     "https://github.com/damianbal/newsfly",
     "https://newsfly-platform.herokuapp.com/",
@@ -90,7 +90,7 @@ export const projects = [
   ),
   project(
     "Microdisqus",
-    "",
+    "simple discussion platform made in Laravel",
     "http://damianbalandowski.com/img/microdisqus.png",
     "https://github.com/damianbal/microdisqus",
     "",
@@ -106,7 +106,7 @@ export const projects = [
   ),
   project(
     "InvPlus",
-    "",
+    "Platform for creating invoices, made in Laravel",
     "http://damianbalandowski.com/img/invplus.png",
     "https://github.com/damianbal/invplus",
     "",
@@ -114,7 +114,7 @@ export const projects = [
   ),
   project(
     "PasteBuddy",
-    "",
+    "Simple code sharing website",
     "http://damianbalandowski.com/img/pastebuddy.png",
     "https://github.com/damianbal/pastebuddy",
     "http://portfolio.damianbalandowski.com/pastebuddy/#/",
@@ -146,7 +146,7 @@ export const projects = [
   ),
   project(
     "Shipla",
-    "https://github.com/damianbal/shipla",
+    "https://github.com/damianbal/shipla  - Very simple API platform",
     "http://damianbalandowski.com/img/shipla_1.png",
     "https://github.com/damianbal/shipla-dashboard",
     "http://portfolio.damianbalandowski.com/shipla-dashboard/#/",
