@@ -137,12 +137,12 @@
                             <i class="fas fa-file-download"></i> Resume</h3>
                         <div class="p-3 text-center row">
                             <div class="col-sm-6">
-                                <a href="#" class="btn btn-light btn-block">
+                                <a href="http://damianbalandowski.com/cv.pdf" class="btn btn-light btn-block">
                                     <i class="fas fa-file-pdf p-2"></i> Download as PDF</a>
 
                             </div>
                             <div class="col-sm-6">
-                                <a href="#" class="btn btn-light btn-block">
+                                <a href="http://damianbalandowski.com/cv.docx" class="btn btn-light btn-block">
                                     <i class="fas fa-file-word p-2"></i> Download as Word</a>
 
                             </div>
