@@ -72,14 +72,30 @@ export const games = [
 ];
 
 export const projects = [
-    project(
-      "Ladasho",
-      "Tiny Resource Manager for Laravel",
-      "http://damianbalandowski.com/img/ladasho1.png",
-      "https://github.com/damianbal/ladasho-app",
-      "",
-      "Laravel, PHP, Vue.js, vuex, vue-router"
-    ),
+  project(
+    "Galleo",
+    "Create galleries and access them by API",
+    "http://damianbalandowski.com/img/galleo.png",
+    "https://github.com/damianbal/Galleo",
+    "",
+    "Laravel, HTML, CSS3, PHP"
+  ),
+  project(
+    "Meetio",
+    "Meeting platform",
+    "http://damianbalandowski.com/img/meetio.png",
+    "https://github.com/damianbal/meetio",
+    "",
+    "Symfony Components, PHP, Vue.js, vuex, vue-router, Doctrine"
+  ),
+  project(
+    "Ladasho",
+    "Tiny Resource Manager for Laravel",
+    "http://damianbalandowski.com/img/ladasho1.png",
+    "https://github.com/damianbal/ladasho-app",
+    "",
+    "Laravel, PHP, Vue.js, vuex, vue-router"
+  ),
   project(
     "Newsfly",
     "Send email news to subscribers",

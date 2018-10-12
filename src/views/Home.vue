@@ -42,7 +42,7 @@
                             Welcome to my site, my name is Damian and I am interested in Web Development, mostly with Vue.js and PHP + Laravel, have
                             fun while browsing my site :)
                             -->
-                            Welcome to my site, my name is Damian and I am interested in Web Dev (Full-Stack), I like to work with Vue.js and Laravel, and JS (ES6), PHP 7 :)
+                            Welcome to my site, my name is Damian and I am interested in Web Dev (Full-Stack), I like to work with Vue.js and Laravel, and JS (ES6) as well as  PHP 7 :)
                         </div>
                     </div>
                 </section>

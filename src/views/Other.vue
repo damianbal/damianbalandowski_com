@@ -29,6 +29,8 @@
             <div class="card w-100 shadow-sm">
                 <div class="card-header"><i class="fab fa-js"></i> JavaScript</div>
                 <div class="card-body">
+                                                            <div>
+                        <a href="https://github.com/damianbal/vs-phpclassgen">VS-PHPClassGen</a> - Extenstion to generate PHP Class with namespace out of file path</div>
                                         <div>
                         <a href="https://github.com/damianbal/testium">Testium</a> - Test API's with ease</div>
                     <div>

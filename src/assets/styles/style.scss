@@ -65,12 +65,19 @@ nav a {
 }
 
 nav .router-link-exact-active {
+    /*
     color: rgba(0,0,0,0.5);
     transform: scale(1.0) translateY(-5px);
     border-top: 2px solid  #007bff;
     border-bottom: 2px solid #007bff;
-    border-radius: 4px;
+    border-radius: 3px;
     transition:0.5s;
     padding: 20px;
     background:rgba(0,0,0,0.05);
+    */
+    color: rgba(0, 0, 0, 0.5);
+    transition:0.5s;
+    transform: translateY(-5px);
+    border-bottom: 2px solid #007bff;
+    border-radius:2px;
 }
